@@ -1,4 +1,4 @@
-**## Dominando gráficos en Python con Matplotlib y Seaborn**
+**Dominando gráficos en Python con Matplotlib y Seaborn**
 
 Matplotlib y Seaborn son las bibliotecas más utilizadas en Python para la visualización de datos. Si no conoces las funciones que ofrecen estas bibliotecas pues este tutorial es para ti.
 
